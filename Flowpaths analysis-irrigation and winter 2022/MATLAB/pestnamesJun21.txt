@@ -1,0 +1,31 @@
+Ametryn
+Atrazine
+Atrazine-Desethyl
+Atrazine-Desisopropyl
+Azoxystrobin
+Boscalid
+Caffeine
+Carbamazepine
+Carbamazepine-10 11-epoxide
+Carbamazepine-trans-10 11-dihydroxy
+Carbendazim
+Chlorantraniliprole
+Diuron
+Fenaminphos sulfoxide
+Fluometuron
+Hexazinone
+Imidacloprid
+Lamotrigine
+Metalaxyl
+Methoxyfenozide
+Metolachlor
+Penconazole
+Pirimicarb
+Prometon
+Propazine
+Propoxur
+Sulfamethoxazole
+Sulfapyridine
+Tebuconazole
+Tebuthiuron
+Terbutryn
